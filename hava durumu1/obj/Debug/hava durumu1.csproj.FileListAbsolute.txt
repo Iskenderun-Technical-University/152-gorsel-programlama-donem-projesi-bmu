@@ -1,0 +1,22 @@
+C:\Users\Murat\Documents\c#\hava durumu1\hava durumu1\bin\Debug\hava durumu1.exe.config
+C:\Users\Murat\Documents\c#\hava durumu1\hava durumu1\bin\Debug\hava durumu1.exe
+C:\Users\Murat\Documents\c#\hava durumu1\hava durumu1\bin\Debug\hava durumu1.pdb
+C:\Users\Murat\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava durumu1.csproj.AssemblyReference.cache
+C:\Users\Murat\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava durumu1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Murat\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava_durumu1.Form1.resources
+C:\Users\Murat\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava_durumu1.Properties.Resources.resources
+C:\Users\Murat\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava durumu1.csproj.GenerateResource.cache
+C:\Users\Murat\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava durumu1.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava durumu1.exe
+C:\Users\Murat\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava durumu1.pdb
+Z:\Documents\c#\hava durumu1\hava durumu1\bin\Debug\hava durumu1.exe.config
+Z:\Documents\c#\hava durumu1\hava durumu1\bin\Debug\hava durumu1.exe
+Z:\Documents\c#\hava durumu1\hava durumu1\bin\Debug\hava durumu1.pdb
+Z:\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava durumu1.csproj.AssemblyReference.cache
+Z:\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava durumu1.csproj.SuggestedBindingRedirects.cache
+Z:\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava_durumu1.Form1.resources
+Z:\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava_durumu1.Properties.Resources.resources
+Z:\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava durumu1.csproj.GenerateResource.cache
+Z:\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava durumu1.csproj.CoreCompileInputs.cache
+Z:\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava durumu1.exe
+Z:\Documents\c#\hava durumu1\hava durumu1\obj\Debug\hava durumu1.pdb
